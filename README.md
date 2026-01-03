@@ -29,7 +29,7 @@
 ---
 
 ## 🧠 Sobre mí
-Soy **Economista** enfocado en **investigación aplicada** para el **sector público** en Perú: evaluación de impacto, análisis económico y monitoreo de proyectos. Trabajo temas de **políticas públicas**, **sector agrario**, **sector saneamiento**, **sostenibilidad** y **análisis de datos**.
+Soy **Economista** con **maestria en Gestión y Políticas Públicas & Estadística Aplicada**, enfocado en **investigación aplicada** para el **sector público** en Perú: evaluación de impacto, análisis económico y monitoreo de proyectos. Trabajo temas de **políticas públicas**, **sector agrario**, **sector saneamiento**, **sostenibilidad** y **análisis de datos**.
 
 - 🔎 Me interesa colaborar en proyectos de **investigación sobre políticas públicas** y **análisis aplicado**  
 - 📈 Enfoque práctico: **Matemática, Estadística, Econometría, Evaluación de Impacto, Machine & Deep Learning**
